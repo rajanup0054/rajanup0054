@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup</h1>
-<h3 align="center">Software Engineering Graduate | AI/ML & Full-Stack Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Exploring Software Engineering & AI</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanup0054&label=Profile%20views&color=0e75b6&style=flat" alt="rajanup0054" /> </p>
 
@@ -16,6 +16,7 @@
 - 👨‍💻 All of my projects are available at my [portfolio](https://portfolio-anupn.netlify.app/)
 
 - 💬 Ask me about **finance or ideas.**
+- 🦇 You can call me **Batman** because I'm always awake.
 
 - 📫 How to reach me  [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/anup-kumar-nayak-939607208/).
 
