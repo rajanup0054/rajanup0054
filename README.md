@@ -19,6 +19,10 @@
 
 - 📫 How to reach me  [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/anup-kumar-nayak-939607208/).
 
+   <p align="center">
+ <img src="https://img.shields.io/github/last-commit/rajanup0054/rajanup0054">
+ <a href="https://github.com/rajanup0054?tab=repositories"><img src="https://img.shields.io/github/stars/rajanup0054?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anup-kumar-nayak-939607208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-kumar-nayak-939607208/" height="30" width="40" /></a>
